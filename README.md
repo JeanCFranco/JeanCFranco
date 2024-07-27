@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeanCFranco
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, Java, PL/SQL, HTML and JS
 - 📫 How to reach me: j.car.franco.ra@gmail.com
 
